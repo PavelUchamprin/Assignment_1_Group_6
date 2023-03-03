@@ -1,4 +1,4 @@
-Emotion Detection
+Emotion Detection.
 
 
 In this project our goal is to create a emotion detection system, trained on the Twitter Data.
