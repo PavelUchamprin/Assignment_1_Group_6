@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of this working agreement is to underline the expectations and responsibilities of team members in the project and to promote great collaboration and effective communication.
 
-### 1.Communication
+### 1. Communication
 We will use Discord as our primary communication tool for daily updates, discussions, and sharing progress. 
 We will set up 2 weekly meetings on Mondays at 12PM and Wednesdays at 3PM (each 30-60 min long) to make sure that the team is on the same page. 
 Chosen time is comfortable for all team members and was negotiated prior to making the Work Agreement.
