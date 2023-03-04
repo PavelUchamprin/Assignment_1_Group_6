@@ -29,3 +29,6 @@ If the issue cannot be resolved within the team, we will involve the course inst
 ### 5. Deadlines
 All team members are expected to meet project deadlines and communicate to the team if they are unable to meet a deadline.
 Asana will be used to monitor deadlines and the whole workflow of the project.
+
+
+#### We, Aliya Kerimbekova, Elin Huliev, Pavel Uchamprin, agree to abide by the terms of this working agreement.
